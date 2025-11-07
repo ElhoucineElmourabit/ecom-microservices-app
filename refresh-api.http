@@ -1,0 +1,8 @@
+# POST http://localhost:8081/actuator/refresh
+# Accept: application/json
+
+# POST http://localhost:8082/actuator/refresh
+# Accept: application/json
+
+POST http://localhost:8083/actuator/refresh
+Accept: application/json
